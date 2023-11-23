@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container-left{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: justify;
+    padding: 20px 30px;
+}
+.container-left h1{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 60px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.container-left p{
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.container-right img{
+    width: 400px;
+    height: 450px;
+    padding: 20px 20px;
+    border-radius: 30%;
+}
+.container-right{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: #00A5E3;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: none;
+    color: #F8F9F3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.exopet{
+    color: #00A5E3;
+    margin-right: 15px;
+}
+
+.btn:hover{
+    color: #F8F9F3;
+    background-color: #f0a748;
+}
+
+@media screen and (max-width: 620px) {
+  .container{
+      display: flex;
+      flex-direction: column-reverse;
+      margin: 0;
+  }  
+  .container-right img{
+    width: 270px;
+    height: 290px;
+    border-radius: 50%;
+}
+.container-right{
+    width: 100%;
+}
+.container-left{
+    width: 100%;
+    padding: 0 30px;
+    margin:0 5px;
+}
+.container-left h1{
+    font-size: 30px;
+}
+.btn3{
+    display: flex;
+    justify-content: center;
+}
+}

@@ -1,0 +1,69 @@
+{
+  "exopet": [
+    {
+      "id": 1,
+      "image" : "https://nusahati.com/wp-content/uploads/2014/10/pacman-frog.jpg",
+      "scientific_name": "Cerathopis",
+      "common_name": "Pacman Frog",
+      "family": "Ceratophryidae",
+      "kingdom": "Animalia",
+      "order": "Anura",
+      "category": "Amphibi",
+      "description": "Pacman frog atau South american horned frog sering juga disebut kodok pacman oleh para pecinta hewan eksotis. Kodok yang satu ini memiliki variasi warna yang beragam sehingga membuat ketertarikan khusus bagi pemeliharanya. Pacman frog termasuk jenis amphibi yang mudah dipelihara karena tidak membutuhkan persyaratan kandang yang rumit dan termasuk dalam hewan yang mudah untuk melakukan adaptasi. Saat ini sudah banyak brand yang menyediakan makanan khusus pacman frog, sehingga dalam pemeliharaannya menjadi lebih praktis."
+    },
+    {
+      "id": 2,
+      "image" : "https://www.everythingreptiles.com/wp-content/uploads/2020/03/Bearded-Dragon.jpg",
+      "scientific_name": "Pogona vitticeps",
+      "common_name": "Bearded Dragon",
+      "family": "Agamidae",
+      "kingdom": "Animalia",
+      "order": "Squamata",
+      "category": "Reptile",
+      "description": "Panoga vitticeps atau yang terkenal sebagai bearded dragon merupakan salah satu jenis reptil berkaki yang populer di dunia eksotic pets. Bearded dragon menjadi kadal pilihan untuk dipelihara para pemula karena sifatnya yang cenderung jinak tetapi tetap aktif untuk bergerak. Habitat hidup bearded dragon yang berada di area savannah menyebabkan perlunya pemeliharaan dengan lampu UVA dan UVB. Bahkan dalam kehidupannya di alam bearded dragon banyak menghabiskan waktunya untuk berjemur dan menghangatkan diri."
+    },
+    {
+      "id": 3,
+      "image" : "https://rimbakita.com/wp-content/uploads/2019/06/iguana.jpg",
+      "scientific_name": "Iguana iguana",
+      "common_name": "Iguana",
+      "family": "Iguanidae",
+      "kingdom": "Animalia",
+      "order": "Squamata",
+      "category": "Reptile",
+      "description": "Iguana merupakan salah satu hewan reptil yang paling awal banyak dipelihara manusia termasuk di Indonesia. Kadal berkaki 4 ini termasuk dalam golongan reptil berkaki yang dapat tumbuh hingga berukuran besar. Di habitatnya iguana akan hidup sebagai hewan arboreal saat kecil dan berubah menjadi hewan terestrial ketika bertumbuh dewasa. Iguna banyak dipelihara oleh manusia karena perawatanya yang mudah, hal itu dapat dilihat dari kemampuannya beradaptasi."
+    },
+    {
+      "id": 4,
+      "image" : "https://cdn.shopify.com/s/files/1/0109/0052/products/image_c5f721a1-54d9-4d89-bd8e-a1f6edfb700c.heic?v=1657203831",
+      "scientific_name": "Python regius",
+      "common_name": "Ball Python",
+      "family": "Pythonidae",
+      "kingdom": "Animalia",
+      "order": "Squamata",
+      "category": "Reptile",
+      "description": "Python regius atau yang sering disebut Ball Python merupakan salah satu jenis ular yang paling umum dipelihara di dunia exotic pet. Ball python menjadi salah satu pilihan utama dalam menentukan pemeliharaan ular karena sifatnya yang jinak dan cenderung pasif. Sistem pertahanan diri ball python yg berbeda dari ular lainnya yaitu melingkarkan dirinya untuk menyembunyikan kepala. Sifat alamiah untuk tidak menyerang itulah yang membuat ball pyhton menjadi pilihan bagi para pemula di dunia reptil."
+    },
+    {
+      "id": 5,
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_eyed_tree_frog_edit2.jpg/1024px-Red_eyed_tree_frog_edit2.jpg",
+      "scientific_name": "Agalychnis callidryas",
+      "common_name": "Red-eye Tree Frog",
+      "family": "Hylidae",
+      "kingdom": "Animalia",
+      "order": "Anura",
+      "category": "Amphibi",
+      "description": "Agalychnis callidryas atau yang sering dikenal sebagai Red-eye tree Frog. Katak ini merupakan salah satu kata pohon paling terkenal dan iconic di dunia amphibi.&nbsp; katak yang satu ini memiliki keindahan karena warnanya yang mencolok dan mata merahnya yang sangat kontras dengan tubuhnya. seperti amphibi lainnya katak ini membutuhkan kelembaban yang tinggi tetapi katak ini sensitif terhadap perubahan suhu. Dalam pemeliharaannya katak ini tidak begitu sulit seperti dart frog karena masih bisa memakan berbagai serangga berukuran sedang."
+    },
+    {
+      "id": 6,
+      "image" : "https://www.nwf.org/-/media/NEW-WEBSITE/Shared-Folder/Wildlife/Amphibians/amphibian_tiger-salamander_600x300.ashx",
+      "common_name": "Tiger Salamander",
+      "family": "Ambystomatidae",
+      "kingdom": "Animalia",
+      "order": "Urodela",
+      "category": "Amphibi",
+      "description": "Ambystoma tigrinum atau tiger salamander merupakan salah satu amphibi yang mulai banyak menarik perhatian pemelihara hewan eksotik saat ini. coraknya yang menyerupai harimau membuat salamander ini menjadi sangat berbeda jika dibandingkan dengan salamnder lainnya. hingga saat ini belum banyak orang yang memelihara tiger salamander di Indonesia.&nbsp; Walau sudah cukup banyak orang yang mengimpor tiger salamander ke Indonesia, hingga saat ini belum ada yang berhasil berternak tiger salamander."
+    }
+  ]
+}

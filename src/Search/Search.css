@@ -1,0 +1,45 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.item-container1 {
+  margin-top: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .txt {
+    text-align: center;
+  }
+  
+.imgsearch{
+  width: 140px;
+  border-radius: 50%;
+  height: 120px
+}
+
+.span-search{
+  color: black;
+  margin-left: 4px;
+}
+
+.search-name{
+  color: black;
+}
+
+.search-input{
+  text-align: center;
+}
+
+.search-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
