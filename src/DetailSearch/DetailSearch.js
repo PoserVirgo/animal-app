@@ -9,7 +9,7 @@ export default function DetailSearch() {
 
   useEffect(() => {
     fetch(
-      `https://my-json-server.typicode.com/myoktariansyah/exopet-app/exopet?common_name=${name}`
+      `https://my-json-server.typicode.com/PoserVirgo/animal-app/exopet?common_name=${name}`
     )
       .then((res) => res.json())
       .then((cats) => {

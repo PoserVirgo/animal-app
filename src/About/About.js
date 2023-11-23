@@ -9,11 +9,11 @@ class About extends React.Component {
     return (
       <div className="container">
         <div className="about">
-          <img src="/foto.jpeg" alt="profile" />
-          <p>Muhamad Yahya Oktariansyah</p>
+          <img src="/PP_saia.jpg" alt="profile" />
+          <p>Muhamad Faisal</p>
           <div className="student">Mahasiswa</div>
           <div className="line"></div>
-          <p className="prak">Exopet-List App</p>
+          <p className="prak">Animal-App</p>
           <div className="location">
             <p className="info">
               <HiOutlineLocationMarker
@@ -23,21 +23,21 @@ class About extends React.Component {
               />
               Asal
             </p>
-            <p>Depok, Jawa Barat</p>
+            <p>Bekasi, Jawa Barat</p>
           </div>
           <div className="location">
             <p className="info">
               <AiOutlinePhone className="icon" size="18px" color="#484d49" />
               Kontak
             </p>
-            <p>0813-8224-9250</p>
+            <p>0812-1942-0605</p>
           </div>
           <div className="location">
             <p className="info">
               <FiMail className="icon" size="18px" color="#484d49" />
               Email
             </p>
-            <p>myahyaokta@gmail.com</p>
+            <p>poservirgo3@gmail.com</p>
           </div>
         </div>
       </div>

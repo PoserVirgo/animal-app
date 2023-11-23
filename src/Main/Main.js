@@ -16,7 +16,7 @@ function Main(props) {
 
       try {
         const results = await axios(
-          "https://my-json-server.typicode.com/myoktariansyah/exopet-app/db"
+          "https://my-json-server.typicode.com/PoserVirgo/animal-app/db"
         );
         setData(results.data.exopet)
       } catch (err) {

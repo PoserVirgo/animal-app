@@ -13,7 +13,7 @@ export default function Details() {
         const fetchData = async () => {
             try {
                 const results = await axios(
-                    "https://my-json-server.typicode.com/myoktariansyah/exopet-app/db"
+                    "https://my-json-server.typicode.com/PoserVirgo/animal-app/db"
                 );
                 setData(results.data.exopet[id-1])
             } catch (err) {
