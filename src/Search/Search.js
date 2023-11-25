@@ -13,7 +13,7 @@ const Search = () => {
     const doSearch = (e) => {
       axios
         .get(
-          "https://my-json-server.typicode.com/myoktariansyah/exopet-app/exopet?common_name=" +
+          "https://my-json-server.typicode.com/PoserVirgo/animal-app/exopet?common_name=" +
             name
         )
         .then((results) => {
